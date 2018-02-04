@@ -1,0 +1,43 @@
+body{
+	background-color: pink;
+}
+
+title {
+	background-color: purple 
+}
+
+h1 {
+	color:brown;
+}
+
+col-sm-8 {
+	font-style: bold;
+	color: brown;
+} 
+
+.middle-image img {
+width:90%;height:auto;
+border:6px solid purple;
+
+}
+
+.text-center{
+	color:purple;
+}
+
+.text-bottom{
+	color:brown;border-color: 
+}
+
+.fixed-bottom{
+	background:brown;
+}
+
+.navbar-text{
+	color:white;
+
+}
+
+.h2 {
+	color:red;
+}
